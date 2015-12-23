@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\blolov2\Assets\script\text.cs">
+    <Files>
+      <File FileName="..\..\blolov2\Assets\script\main.cs" Line="195" Column="1" />
+      <File FileName="..\..\blolov2\Assets\script\danjon.cs" Line="298" Column="6" />
+      <File FileName="..\..\blolov2\Assets\script\title.cs" Line="99" Column="3" />
+      <File FileName="..\..\blolov2\Assets\script\text.cs" Line="200" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
